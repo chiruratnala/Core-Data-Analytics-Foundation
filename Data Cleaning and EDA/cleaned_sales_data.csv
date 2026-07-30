@@ -1,0 +1,181 @@
+OrderID,OrderDate,Region,Salesperson,Product,Category,Units,UnitPrice,Sales,Month
+1023,2025-01-24,North,Ravi Kumar,Office Chair,Furniture,11.0,6500,71500.0,2025-01
+1134,2025-03-29,North,Ananya Rao,Bookshelf,Furniture,2.0,4200,8400.0,2025-03
+1115,2025-03-18,West,Rohan Shah,Notebook Set,Stationery,12.0,350,4200.0,2025-03
+1077,2025-06-08,South,Divya Sharma,Office Chair,Furniture,3.0,6500,19500.0,2025-06
+1009,2025-06-04,East,Sneha Das,Bookshelf,Furniture,9.0,4200,37800.0,2025-06
+1118,2025-06-21,West,Priya Mehta,Bookshelf,Furniture,3.0,4200,12600.0,2025-06
+1149,2025-01-31,South,Karthik Iyer,Wireless Mouse,Electronics,12.0,799,9588.0,2025-01
+1158,2025-05-28,North,Ravi Kumar,Office Chair,Furniture,10.0,6500,65000.0,2025-05
+1111,2025-04-09,South,Divya Sharma,Wireless Mouse,Electronics,7.0,799,5593.0,2025-04
+1151,2025-05-04,East,Amit Ghosh,Wireless Mouse,Electronics,4.0,799,3196.0,2025-05
+1091,2025-03-18,East,Amit Ghosh,Gel Pen Pack,Stationery,7.0,120,840.0,2025-03
+1033,2025-05-17,South,Divya Sharma,Bookshelf,Furniture,9.0,4200,37800.0,2025-05
+1036,2025-06-16,East,Amit Ghosh,Notebook Set,Stationery,8.0,350,2800.0,2025-06
+1027,2025-03-17,West,Priya Mehta,Bookshelf,Furniture,1.0,4200,4200.0,2025-03
+1171,2025-06-26,East,Amit Ghosh,A4 Paper Ream,Stationery,9.0,250,2250.0,2025-06
+1052,2025-03-15,West,Rohan Shah,Office Chair,Furniture,4.0,6500,26000.0,2025-03
+1129,2025-01-30,South,Karthik Iyer,Wireless Mouse,Electronics,10.0,799,7990.0,2025-01
+1166,2025-03-15,East,Amit Ghosh,Wireless Mouse,Electronics,11.0,799,8789.0,2025-03
+1060,2025-03-22,South,Karthik Iyer,27In Monitor,Electronics,3.0,18500,55500.0,2025-03
+1148,2025-04-27,East,Amit Ghosh,A4 Paper Ream,Stationery,4.0,250,1000.0,2025-04
+1153,2025-01-04,South,Karthik Iyer,Laptop Pro 14,Electronics,1.0,68000,68000.0,2025-01
+1156,2025-03-29,South,Divya Sharma,A4 Paper Ream,Stationery,8.0,250,2000.0,2025-03
+1056,2025-01-21,South,Divya Sharma,Bluetooth Speaker,Electronics,2.0,2999,5998.0,2025-01
+1165,2025-04-26,West,Rohan Shah,Laptop Pro 14,Electronics,4.0,68000,272000.0,2025-04
+1047,2025-03-13,West,Priya Mehta,Wireless Mouse,Electronics,0.0,799,0.0,2025-03
+1012,2025-06-19,South,Karthik Iyer,Wireless Mouse,Electronics,4.0,799,3196.0,2025-06
+1067,2025-01-28,South,Karthik Iyer,A4 Paper Ream,Stationery,10.0,250,2500.0,2025-01
+1094,2025-03-19,West,Priya Mehta,A4 Paper Ream,Stationery,5.0,250,1250.0,2025-03
+1066,2025-06-19,North,Ravi Kumar,A4 Paper Ream,Stationery,2.0,250,500.0,2025-06
+1079,2025-06-21,South,Karthik Iyer,Office Chair,Furniture,12.0,6500,78000.0,2025-06
+1048,2025-05-21,North,Ravi Kumar,Notebook Set,Stationery,1.0,350,350.0,2025-05
+1126,2025-02-21,North,Ravi Kumar,Standing Desk,Furniture,3.0,15500,46500.0,2025-02
+1073,2025-02-08,North,Ananya Rao,Bluetooth Speaker,Electronics,9.0,2999,26991.0,2025-02
+1011,2025-06-10,East,Sneha Das,Wireless Mouse,Electronics,1.0,799,799.0,2025-06
+1029,2025-05-10,South,Divya Sharma,Gel Pen Pack,Stationery,3.0,120,360.0,2025-05
+1116,2025-05-20,South,Karthik Iyer,Standing Desk,Furniture,0.0,15500,0.0,2025-05
+1007,2025-03-13,South,Divya Sharma,Gel Pen Pack,Stationery,2.0,120,240.0,2025-03
+1028,2025-03-09,South,Divya Sharma,A4 Paper Ream,Stationery,11.0,250,2750.0,2025-03
+1072,2025-04-20,North,Ravi Kumar,Wireless Mouse,Electronics,12.0,799,9588.0,2025-04
+1015,2025-06-21,East,Sneha Das,Bluetooth Speaker,Electronics,11.0,2999,32989.0,2025-06
+1100,2025-01-19,West,Rohan Shah,Bluetooth Speaker,Electronics,4.0,2999,11996.0,2025-01
+1051,2025-04-08,North,Ananya Rao,A4 Paper Ream,Stationery,8.0,250,2000.0,2025-04
+1016,2025-02-13,South,Divya Sharma,Bookshelf,Furniture,7.0,4200,29400.0,2025-02
+1081,2025-02-21,West,Rohan Shah,A4 Paper Ream,Stationery,4.0,250,1000.0,2025-02
+1109,2025-01-20,East,Sneha Das,A4 Paper Ream,Stationery,6.0,250,1500.0,2025-01
+1003,2025-06-01,West,Priya Mehta,Laptop Pro 14,Electronics,2.0,68000,136000.0,2025-06
+1137,2025-06-01,East,Amit Ghosh,Standing Desk,Furniture,2.0,15500,31000.0,2025-06
+1157,2025-01-30,North,Ananya Rao,Bookshelf,Furniture,2.0,4200,8400.0,2025-01
+1086,2025-06-02,West,Rohan Shah,Gel Pen Pack,Stationery,7.0,120,840.0,2025-06
+1046,2025-02-18,West,Priya Mehta,27In Monitor,Electronics,3.0,18500,55500.0,2025-02
+1088,2025-03-07,North,Ananya Rao,Laptop Pro 14,Electronics,9.0,68000,612000.0,2025-03
+1021,2025-03-05,East,Amit Ghosh,Bluetooth Speaker,Electronics,7.0,2999,20993.0,2025-03
+1096,2025-04-24,South,Karthik Iyer,Office Chair,Furniture,11.0,6500,71500.0,2025-04
+1145,2025-02-26,West,Priya Mehta,A4 Paper Ream,Stationery,11.0,250,2750.0,2025-02
+1082,2025-02-27,North,Ravi Kumar,27In Monitor,Electronics,6.0,18500,111000.0,2025-02
+1138,2025-03-13,West,Priya Mehta,Bookshelf,Furniture,10.0,4200,42000.0,2025-03
+1022,2025-04-03,South,Divya Sharma,Notebook Set,Stationery,8.0,350,2800.0,2025-04
+1055,2025-05-30,West,Priya Mehta,Laptop Pro 14,Electronics,9.0,68000,612000.0,2025-05
+1089,2025-05-18,South,Karthik Iyer,27In Monitor,Electronics,2.0,18500,37000.0,2025-05
+1097,2025-01-22,East,Amit Ghosh,Wireless Mouse,Electronics,4.0,799,3196.0,2025-01
+1026,2025-06-24,North,Ananya Rao,Gel Pen Pack,Stationery,2.0,120,240.0,2025-06
+1180,2025-04-13,North,Ananya Rao,Wireless Mouse,Electronics,6.0,799,4794.0,2025-04
+1143,2025-04-15,West,Priya Mehta,Bookshelf,Furniture,11.0,4200,46200.0,2025-04
+1123,2025-04-08,East,Amit Ghosh,A4 Paper Ream,Stationery,2.0,250,500.0,2025-04
+1167,2025-03-01,East,Sneha Das,27In Monitor,Electronics,2.0,18500,37000.0,2025-03
+1087,2025-06-05,North,Ananya Rao,Bluetooth Speaker,Electronics,4.0,2999,11996.0,2025-06
+1010,2025-02-01,West,Priya Mehta,Notebook Set,Stationery,5.0,350,1750.0,2025-02
+1095,2025-02-23,West,Rohan Shah,Bookshelf,Furniture,8.0,4200,33600.0,2025-02
+1019,2025-02-24,East,Sneha Das,Bookshelf,Furniture,7.0,4200,29400.0,2025-02
+1002,2025-02-27,South,Divya Sharma,Notebook Set,Stationery,2.0,350,700.0,2025-02
+1136,2025-02-15,East,Amit Ghosh,Bookshelf,Furniture,7.0,4200,29400.0,2025-02
+1068,2025-02-23,East,Sneha Das,A4 Paper Ream,Stationery,9.0,250,2250.0,2025-02
+1078,2025-04-16,North,Ravi Kumar,Gel Pen Pack,Stationery,7.0,120,840.0,2025-04
+1057,2025-06-22,South,Karthik Iyer,Wireless Mouse,Electronics,10.0,799,7990.0,2025-06
+1013,2025-01-26,West,Rohan Shah,Bookshelf,Furniture,11.0,4200,46200.0,2025-01
+1103,2025-02-15,West,Priya Mehta,Notebook Set,Stationery,4.0,350,1400.0,2025-02
+1112,2025-04-15,East,Amit Ghosh,27In Monitor,Electronics,1.0,18500,18500.0,2025-04
+1122,2025-03-25,South,Karthik Iyer,Gel Pen Pack,Stationery,6.0,120,720.0,2025-03
+1017,2025-03-11,South,Karthik Iyer,Laptop Pro 14,Electronics,4.0,68000,272000.0,2025-03
+1005,2025-06-16,West,Priya Mehta,Bookshelf,Furniture,10.0,4200,42000.0,2025-06
+1064,2025-03-04,East,Amit Ghosh,Office Chair,Furniture,8.0,6500,52000.0,2025-03
+1159,2025-03-19,North,Ravi Kumar,Wireless Mouse,Electronics,9.0,799,7191.0,2025-03
+1084,2025-05-11,West,Rohan Shah,Laptop Pro 14,Electronics,2.0,68000,136000.0,2025-05
+1092,2025-06-28,East,Sneha Das,Standing Desk,Furniture,7.0,15500,108500.0,2025-06
+1127,2025-05-02,North,Ravi Kumar,Bookshelf,Furniture,12.0,4200,50400.0,2025-05
+1061,2025-06-21,East,Amit Ghosh,Gel Pen Pack,Stationery,2.0,120,240.0,2025-06
+1154,2025-05-22,East,Sneha Das,Bookshelf,Furniture,2.0,4200,8400.0,2025-05
+1006,2025-03-13,North,Ravi Kumar,27In Monitor,Electronics,6.0,18500,111000.0,2025-03
+1164,2025-05-22,North,Ravi Kumar,Laptop Pro 14,Electronics,7.0,68000,476000.0,2025-05
+1146,2025-05-29,East,Amit Ghosh,Notebook Set,Stationery,9.0,350,3150.0,2025-05
+1050,2025-05-04,South,Karthik Iyer,Laptop Pro 14,Electronics,3.0,68000,204000.0,2025-05
+1177,2025-04-22,West,Priya Mehta,Bookshelf,Furniture,6.0,4200,25200.0,2025-04
+1144,2025-05-06,West,Priya Mehta,Wireless Mouse,Electronics,5.0,799,3995.0,2025-05
+1090,2025-06-20,East,Amit Ghosh,Wireless Mouse,Electronics,12.0,799,9588.0,2025-06
+1025,2025-06-02,West,Rohan Shah,Notebook Set,Stationery,1.0,350,350.0,2025-06
+1042,2025-05-02,South,Karthik Iyer,27In Monitor,Electronics,4.0,18500,74000.0,2025-05
+1059,2025-05-30,East,Amit Ghosh,Standing Desk,Furniture,11.0,15500,170500.0,2025-05
+1140,2025-03-25,South,Karthik Iyer,Standing Desk,Furniture,6.0,15500,93000.0,2025-03
+1176,2025-05-13,West,Rohan Shah,Office Chair,Furniture,10.0,6500,65000.0,2025-05
+1098,2025-06-22,East,Sneha Das,Standing Desk,Furniture,3.0,15500,46500.0,2025-06
+1150,2025-05-18,South,Divya Sharma,Standing Desk,Furniture,12.0,15500,186000.0,2025-05
+1043,2025-01-25,North,Ananya Rao,Gel Pen Pack,Stationery,7.0,120,840.0,2025-01
+1045,2025-04-14,East,Sneha Das,Standing Desk,Furniture,4.0,15500,62000.0,2025-04
+1155,2025-01-04,East,Amit Ghosh,Bookshelf,Furniture,8.0,4200,33600.0,2025-01
+1163,2025-06-19,North,Ravi Kumar,Standing Desk,Furniture,3.0,15500,46500.0,2025-06
+1147,2025-03-30,West,Rohan Shah,Gel Pen Pack,Stationery,12.0,120,1440.0,2025-03
+1020,2025-06-14,West,Priya Mehta,A4 Paper Ream,Stationery,3.0,250,750.0,2025-06
+1135,2025-04-21,East,Amit Ghosh,Office Chair,Furniture,7.0,6500,45500.0,2025-04
+1085,2025-03-08,South,Karthik Iyer,Laptop Pro 14,Electronics,2.0,68000,136000.0,2025-03
+1162,2025-01-16,North,Ravi Kumar,Standing Desk,Furniture,0.0,15500,0.0,2025-01
+1076,2025-03-05,North,Ananya Rao,Notebook Set,Stationery,7.0,350,2450.0,2025-03
+1108,2025-03-12,West,Priya Mehta,A4 Paper Ream,Stationery,8.0,250,2000.0,2025-03
+1039,2025-06-11,North,Ravi Kumar,Wireless Mouse,Electronics,1.0,799,799.0,2025-06
+1170,2025-05-26,East,Amit Ghosh,Wireless Mouse,Electronics,8.0,799,6392.0,2025-05
+1037,2025-01-31,South,Divya Sharma,Wireless Mouse,Electronics,6.0,799,4794.0,2025-01
+1178,2025-04-15,East,Amit Ghosh,Wireless Mouse,Electronics,3.0,799,2397.0,2025-04
+1174,2025-01-07,North,Ravi Kumar,Bluetooth Speaker,Electronics,10.0,2999,29990.0,2025-01
+1130,2025-01-07,East,Amit Ghosh,27In Monitor,Electronics,12.0,18500,222000.0,2025-01
+1093,2025-06-20,West,Priya Mehta,Bluetooth Speaker,Electronics,0.0,2999,0.0,2025-06
+1101,2025-06-28,West,Rohan Shah,27In Monitor,Electronics,4.0,18500,74000.0,2025-06
+1120,2025-06-19,North,Ravi Kumar,27In Monitor,Electronics,3.0,18500,55500.0,2025-06
+1044,2025-04-16,West,Priya Mehta,Wireless Mouse,Electronics,1.0,799,799.0,2025-04
+1054,2025-05-19,North,Ananya Rao,Laptop Pro 14,Electronics,1.0,68000,68000.0,2025-05
+1110,2025-03-23,North,Ravi Kumar,Office Chair,Furniture,4.0,6500,26000.0,2025-03
+1102,2025-02-07,North,Ravi Kumar,27In Monitor,Electronics,4.0,18500,74000.0,2025-02
+1179,2025-03-26,West,Rohan Shah,A4 Paper Ream,Stationery,11.0,250,2750.0,2025-03
+1071,2025-02-03,East,Sneha Das,Bookshelf,Furniture,9.0,4200,37800.0,2025-02
+1018,2025-01-09,East,Amit Ghosh,A4 Paper Ream,Stationery,2.0,250,500.0,2025-01
+1035,2025-06-26,South,Karthik Iyer,27In Monitor,Electronics,11.0,18500,203500.0,2025-06
+1172,2025-05-19,West,Rohan Shah,Wireless Mouse,Electronics,10.0,799,7990.0,2025-05
+1099,2025-01-07,North,Ravi Kumar,Bookshelf,Furniture,10.0,4200,42000.0,2025-01
+1038,2025-01-06,South,Divya Sharma,Laptop Pro 14,Electronics,2.0,68000,136000.0,2025-01
+1117,2025-04-22,West,Priya Mehta,27In Monitor,Electronics,6.0,18500,111000.0,2025-04
+1063,2025-02-24,East,Sneha Das,Gel Pen Pack,Stationery,2.0,120,240.0,2025-02
+1121,2025-04-29,South,Divya Sharma,A4 Paper Ream,Stationery,7.0,250,1750.0,2025-04
+1124,2025-05-01,North,Ravi Kumar,Gel Pen Pack,Stationery,4.0,120,480.0,2025-05
+1107,2025-05-02,West,Rohan Shah,Standing Desk,Furniture,11.0,15500,170500.0,2025-05
+1070,2025-04-19,East,Sneha Das,Laptop Pro 14,Electronics,0.0,68000,0.0,2025-04
+1131,2025-02-20,North,Ravi Kumar,Wireless Mouse,Electronics,12.0,799,9588.0,2025-02
+1075,2025-04-04,North,Ananya Rao,Standing Desk,Furniture,11.0,15500,170500.0,2025-04
+1168,2025-05-20,South,Divya Sharma,A4 Paper Ream,Stationery,3.0,250,750.0,2025-05
+1040,2025-03-26,North,Ravi Kumar,A4 Paper Ream,Stationery,11.0,250,2750.0,2025-03
+1031,2025-01-29,East,Amit Ghosh,Standing Desk,Furniture,1.0,15500,15500.0,2025-01
+1175,2025-01-06,East,Sneha Das,Office Chair,Furniture,8.0,6500,52000.0,2025-01
+1058,2025-03-05,North,Ravi Kumar,27In Monitor,Electronics,11.0,18500,203500.0,2025-03
+1024,2025-02-10,West,Priya Mehta,27In Monitor,Electronics,0.0,18500,0.0,2025-02
+1105,2025-05-16,East,Amit Ghosh,Bluetooth Speaker,Electronics,12.0,2999,35988.0,2025-05
+1152,2025-03-17,South,Karthik Iyer,Office Chair,Furniture,5.0,6500,32500.0,2025-03
+1004,2025-02-25,South,Divya Sharma,Notebook Set,Stationery,4.0,350,1400.0,2025-02
+1142,2025-03-12,North,Ravi Kumar,Wireless Mouse,Electronics,4.0,799,3196.0,2025-03
+1080,2025-01-28,West,Priya Mehta,Bookshelf,Furniture,4.0,4200,16800.0,2025-01
+1041,2025-05-05,South,Divya Sharma,Bluetooth Speaker,Electronics,10.0,2999,29990.0,2025-05
+1062,2025-01-03,West,Priya Mehta,Wireless Mouse,Electronics,9.0,799,7191.0,2025-01
+1008,2025-01-24,West,Priya Mehta,Gel Pen Pack,Stationery,6.0,120,720.0,2025-01
+1032,2025-03-03,North,Ravi Kumar,Bookshelf,Furniture,2.0,4200,8400.0,2025-03
+1125,2025-06-16,North,Ravi Kumar,Laptop Pro 14,Electronics,4.0,68000,272000.0,2025-06
+1113,2025-02-22,West,Rohan Shah,Bluetooth Speaker,Electronics,12.0,2999,35988.0,2025-02
+1074,2025-02-07,West,Priya Mehta,Laptop Pro 14,Electronics,5.0,68000,340000.0,2025-02
+1034,2025-02-12,East,Amit Ghosh,Standing Desk,Furniture,9.0,15500,139500.0,2025-02
+1141,2025-03-08,East,Amit Ghosh,Bluetooth Speaker,Electronics,12.0,2999,35988.0,2025-03
+1069,2025-05-06,East,Sneha Das,Wireless Mouse,Electronics,11.0,799,8789.0,2025-05
+1053,2025-03-17,South,Divya Sharma,Bluetooth Speaker,Electronics,12.0,2999,35988.0,2025-03
+1173,2025-01-11,West,Rohan Shah,Bluetooth Speaker,Electronics,5.0,2999,14995.0,2025-01
+1114,2025-01-06,West,Rohan Shah,Laptop Pro 14,Electronics,6.0,68000,408000.0,2025-01
+1161,2025-03-18,West,Rohan Shah,Bluetooth Speaker,Electronics,10.0,2999,29990.0,2025-03
+1128,2025-03-07,East,Sneha Das,Bluetooth Speaker,Electronics,10.0,2999,29990.0,2025-03
+1160,2025-04-17,South,Karthik Iyer,Bookshelf,Furniture,8.0,4200,33600.0,2025-04
+1133,2025-04-20,East,Sneha Das,Notebook Set,Stationery,11.0,350,3850.0,2025-04
+1049,2025-01-24,South,Divya Sharma,27In Monitor,Electronics,8.0,18500,148000.0,2025-01
+1014,2025-04-04,South,Karthik Iyer,Gel Pen Pack,Stationery,4.0,120,480.0,2025-04
+1106,2025-05-10,West,Rohan Shah,Office Chair,Furniture,12.0,6500,78000.0,2025-05
+1119,2025-06-09,North,Ananya Rao,Bluetooth Speaker,Electronics,10.0,2999,29990.0,2025-06
+1139,2025-06-06,West,Rohan Shah,Laptop Pro 14,Electronics,0.0,68000,0.0,2025-06
+1169,2025-01-19,North,Ravi Kumar,A4 Paper Ream,Stationery,10.0,250,2500.0,2025-01
+1001,2025-06-13,North,Ravi Kumar,A4 Paper Ream,Stationery,0.0,250,0.0,2025-06
+1132,2025-03-19,North,Ravi Kumar,Gel Pen Pack,Stationery,9.0,120,1080.0,2025-03
+1104,2025-02-01,West,Priya Mehta,Bookshelf,Furniture,11.0,4200,46200.0,2025-02
+1030,2025-05-19,North,Ananya Rao,Bookshelf,Furniture,1.0,4200,4200.0,2025-05
+1083,2025-03-13,North,Ananya Rao,Gel Pen Pack,Stationery,11.0,120,1320.0,2025-03
+1065,2025-05-20,East,Sneha Das,Notebook Set,Stationery,5.0,350,1750.0,2025-05
